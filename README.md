@@ -1,4 +1,4 @@
-# Hy all! / Hola todos! / Oi pessoal!
+# Hi all! / Hola todos! / Oi pessoal!
 
 ## Eng 🇺🇸
 Hello folks! I'm Diogo Zangirolani.
