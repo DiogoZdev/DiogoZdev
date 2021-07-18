@@ -20,7 +20,13 @@ Até o momento, estudel **HTML**, **CSS** (tendo aquela consideração especial 
 
 diogozang2@gmail.com
 
+
 ## Portfolio 💻
 
 https://diogozdev.github.io
+
+
+## linkedIn
+
+https://www.linkedin.com/in/diogo-zangirolani-98889612b/
 
