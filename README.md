@@ -12,3 +12,5 @@ Ya estudié **HTML**, **CSS** (tendo una consideración especial con las página
 Olá, pessoal! Sou Diogo Zangirolani.
 Amo estudar web design e busco oportunidades no desenvolvimento front-end
 Até o momento, estudel **HTML**, **CSS** (tendo aquela consideração especial com páginas responsivas), **JavaScript**, **ReactJS**, **PHP**, **SQL** e sei que ainda há muitas oportunidades adiante.
+
+:envelope: diogozang2@gmail.com
