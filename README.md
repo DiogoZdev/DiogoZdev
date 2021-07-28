@@ -16,8 +16,7 @@ Amo estudar web design e busco oportunidades no desenvolvimento front-end
 Até o momento, estudel **HTML**, **CSS** (tendo aquela consideração especial com páginas responsivas), **JavaScript**, **ReactJS**, **PHP**, **SQL** e sei que ainda há muitas oportunidades adiante.
 
 
-## Contact ✉️
-
+##<code><a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></code>
 diogozang2@gmail.com
 
 
@@ -26,11 +25,6 @@ diogozang2@gmail.com
 https://diogozdev.github.io
 
 
-## linkedIn
-
-
-<code><a href="https://www.linkedin.com/in/diogo-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+##<code><a href="https://www.linkedin.com/in/diogo-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
 
