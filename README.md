@@ -1,4 +1,4 @@
-# Hi all! 
+# Hi all! 😎
 
 I'm Diogo Zangirolani.
 I love studying web design and I'm a big fan of front-end development.
