@@ -3,6 +3,8 @@
 I'm Diogo Zangirolani.
 I love studying web design and I'm a big fan of front-end development.
 
+### #mobile-first
+### #responsivity
 
 ### These are some of the technologies I've been studying so far:
 
