@@ -19,6 +19,6 @@ I love studying web design and I'm a big fan of front-end development.
 
 ### Languages
 
-🇧🇷
-🇺🇸
-🇪🇸
+- Portuguese (native)
+- English
+- Spanish
