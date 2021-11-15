@@ -1,7 +1,7 @@
 ## Hi all!
 
 Diogo Lara here,
-I'm a FullStack dev that loves web design.
+I'm a FullStack dev that love web design.
 
 
 
