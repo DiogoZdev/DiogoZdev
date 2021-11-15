@@ -1,8 +1,9 @@
 ## Hi all!
 
 Diogo Lara here,
-I'm a FullStack dev that love web design.
+I'm a FullStack dev and I really love web Design.
 
+Currently I'm focused on Java and its technologies.
 
 
 #### These are some of the technologies I've been studying so far:
