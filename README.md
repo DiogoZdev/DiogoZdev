@@ -23,3 +23,4 @@ Currently I'm focused on Java and its technologies.
 - English
 - Portuguese (native)
 - Spanish
+- Italian (learning in progress)
