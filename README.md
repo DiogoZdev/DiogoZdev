@@ -1,7 +1,7 @@
 ## Hi all!
 
 Diogo Lara here,
-I'm a FullStack dev and I really love web Design.
+I'm a FullStack dev but I really love FrontEnd.
 
 Currently I'm focused on Java and its technologies.
 
