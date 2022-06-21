@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Diogo Lara, a fullstack developer from Brasil.</p>
+<p align="center">I'm Diogo Lara, a fullstack developer from Brasil.</p>
 
 ###
 
