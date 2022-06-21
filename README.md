@@ -43,7 +43,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" width="52" alt="postgresql logo"  />
 </div>
 
 ###
@@ -92,8 +92,8 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/diogo-lara" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  /></a>
-  <a href="mailto:diogozang2@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  /></a>
+  <a href="https://linkedin.com/in/diogo-lara" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="52" alt="linkedin logo"  /></a>
+  <a href="mailto:diogozang2@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="52" alt="google logo"  /></a>
 </div>
 
 ###
