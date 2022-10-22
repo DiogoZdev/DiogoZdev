@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Diogo Lara, a developer from Brasil.</p>
+<p align="center">I'm Diogo Lara, a developer, an Enlgish teacher from Brasil.</p>
 <p align="center">Today I work as Front-end dev in Bankme</p>
 
 
