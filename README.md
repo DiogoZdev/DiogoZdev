@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&username=diogozdev" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=354&langs_count=5&theme=nord&hide_border=true&username=diogozdev" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
