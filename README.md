@@ -10,7 +10,7 @@
 ###
 
 <p align="center">I'm Diogo Lara, a developer, and an English teacher from Brasil.</p>
-<p align="center">Today I work as Front-end dev in Bankme</p>
+<p align="center">Today I work as Full-Stack dev in Bankme</p>
 
 
 ###
