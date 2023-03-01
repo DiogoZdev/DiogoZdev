@@ -93,7 +93,7 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/diogo-lara" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="52" alt="linkedin logo"  /></a>
-  <a href="mailto:diogozang2@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="52" alt="google logo"  /></a>
+  <a href="mailto:diogo.lara.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="52" alt="google logo"  /></a>
 </div>
 
 ###
