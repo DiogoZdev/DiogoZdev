@@ -81,8 +81,8 @@
 
 <p align="left">
  🇧🇷 Portuguese (native)<br>
- 🇬🇧 English (teacher)<br>
- 🇪🇸 Spanish<br>
+ 🇬🇧 English (proficient)<br>
+ 🇪🇸 Spanish (mid level) <br>
  🇮🇹 Italian (learning in progress)
 </p>
 
