@@ -1,15 +1,17 @@
 <h1 align="center">Hello World!</h1>
 
-###
-
-<p align="center">I'm a Full-Stack Developer and English teacher from Brazil. I have a passion for learning new technologies and creating beautiful, functional applications.</p>
-<p align="center">Today I work as Full-Stack dev in Bankme</p>
+I'm a Full-Stack Developer and English teacher from Brazil. 
+I have a passion for learning new technologies and creating beautiful, functional applications.
 
 
-###
+## Work Experience:
+I **currently** work as a Full-Stack Developer at Bankme, where I've been involved in a variety of projects, including developing a new customer dashboard. I've been working with TypeScript, Angular2+, NestJS and Docker among other technologies.
+
+**2021 - 2022**: I worked as a Full-Stack Developer at Maptriz Smart City, where I was involved in a city management project, developing a new functionalities and caring for the responsive layout. I worked with TypeScript, Angular2+, Java, Spring and other technologies.
+
 
 ## Technologies I have some experience with:
-###
+
 <div style="display:flex">
 <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="40" alt="html5"/>
 <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="40" alt="css3"/>
@@ -32,10 +34,8 @@
 <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" width="40" alt="Docker logo"/>
 </div>
 
-###
 
 ### My tools:
-###
 
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postman/postman-original.svg" height="30" width="40"/> Postman
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" width="42" height="30" title="Ubuntu"/> Ubuntu
@@ -44,18 +44,13 @@
 -  <img title="Inkscape" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/inkscape/inkscape-plain.svg" height="30" width="40" alt="inkscape logo"/> Inkscape
 -  <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"/> Figma
 
-###
 
-## What I've been studying lately:
-###
+
+### What I've been studying lately:
 
 - <img title="Amazon Web Services" height="30" width="40" alt="AWS logo" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" /> Amazon Web Services
 
-
-###
-
 ## Languages I speak:
-###
 
 - 🇧🇷 Portuguese (native)
 - 🇬🇧 English (proficient)
@@ -63,10 +58,7 @@
 - 🇮🇹 Italian (learning in progress)
 
 
-###
 <h1 align="center">Reach me out</h1>
-
-###
 
 <div align="center">
   <a href="https://linkedin.com/in/diogo-lara" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="52" alt="linkedin logo"  /></a>
