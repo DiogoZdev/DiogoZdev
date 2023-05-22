@@ -5,7 +5,7 @@ I have a passion for learning new technologies and creating beautiful, functiona
 
 
 ## Work Experience:
-I **currently** work as a Full-Stack Developer at Bankme, where I've been involved in a variety of projects, including developing a new customer dashboard. I've been working with TypeScript, Angular2+, NestJS and Docker among other technologies.
+I **currently** work as a Full-Stack Developer at Bankme, where I've been involved in a variety of projects, including developing a new customer dashboard. I've been working with TypeScript, Angular2+, ReactJS, NextJS, NestJS and Docker among other technologies.
 
 **2021 - 2022**: I worked as a Full-Stack Developer at Maptriz Smart City, where I was involved in a city management project, developing a new functionalities and caring for the responsive layout. I worked with TypeScript, Angular2+, Java, Spring and other technologies.
 
