@@ -57,6 +57,7 @@ I **currently** work as a Full-Stack Developer at Bankme, where I've been involv
 - 🇬🇧 English (proficient)
 - 🇪🇸 Spanish (mid level)
 - 🇮🇹 Italian (learning in progress)
+- 🇩🇪 German (learning in progress)
 
 
 <h1 align="center">Reach me out</h1>
