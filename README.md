@@ -17,7 +17,7 @@ I have a passion for learning new technologies and creating beautiful, functiona
 
 <br/>
 
-**2022**: English Teacher for brazilian at [BSL](https://www.bslidiomas.com.br/)
+**2022**: English Teacher at [BSL](https://www.bslidiomas.com.br/)
 
 <br/>
 
