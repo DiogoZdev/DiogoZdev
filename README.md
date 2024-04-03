@@ -5,52 +5,77 @@ I have a passion for learning new technologies and creating beautiful, functiona
 
 
 ## Work Experience:
-I **currently** work as a Full-Stack Developer at Bankme, where I've been involved in a variety of projects, including developing a new customer dashboard. I've been working with TypeScript, Angular2+, ReactJS, NextJS, NestJS and Docker among other technologies.
 
-**2021 - 2022**: I worked as a Full-Stack Developer at Maptriz Smart City, where I was involved in a city management project, developing a new functionalities and caring for the responsive layout. I worked with TypeScript, Angular2+, Java, Spring and other technologies.
+I **currently** work as a Full-Stack Developer at [Bankme](https://bankme.tech).
+- Reduced manual process and errors through automatization
+- Customer retention with better UIs and UX
+- Standardization in translations
+
+<br/>
+
+**2024**: Volunteer English Teacher [English Connect](https://www.englishconnect.org/)
+
+<br/>
+
+**2022**: English Teacher for brazilian at [BSL](https://www.bslidiomas.com.br/)
+
+<br/>
+
+**2021 - 2022**: Full-Stack Developer at [Maptriz Smart City](https://www.maptriz.com.br/contato/).
+- Responsible for internationalization (Portuguese, English, Spanish)
+- Planning and Development of new UIs
+
+**2019 - 2020**: Volunteer English Teacher [English Connect](https://www.englishconnect.org/)
 
 
-## Technologies I have some experience with:
 
-<div style="display:flex">
-<img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="60" alt="html5"/>
-<img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="60" alt="css3"/>
-<img title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="60" alt="sass"/>
-<img title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="40" width="60" alt="tailwindcss"/>
-<img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="60" alt="javascript"/>
-<img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="60" alt="typescript"/>
-<img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60" alt="reactjs"/>
-<img title="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-plain.svg" alt="NextJs" height="40" width="60" />
-<img title="Angular2+" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" height="40" width="60" alt="angular"/>
-<img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60" alt="java"/>
-  <br/>
-<img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="60" alt="spring"/>
-<img title="NestJS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" height="40" width="60" alt="nestjs"/>
-<img title="GO" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg" height="40" width="60" alt=""/>
-<img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="60" alt="nodejs"/>
-<img title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="60" alt="express"/>
-<img title="Jest" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jest/jest-plain.svg" height="40" width="60" alt="jest"/>
-<img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="60" alt="mysql logo"/>
-<img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" width="60" alt="postgresql logo"/>
-<img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="60" alt="mongodb logo"/>
-<img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" width="60" alt="Docker logo"/>
+## Technologies I have experience with:
+
+<div>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" title="Tailwind CSS" />
+</div><div>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />
+  <img src="https://skillicons.dev/icons?i=next" title="NextJS" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular 2+" />
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
 </div>
-
+<div>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=go" title="GO" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express" />
+</div><div>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="PrismaORM" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="Postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" />
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
+</div>
 
 ### My tools:
 
--  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postman/postman-original.svg" height="40" width="60"/> Postman
--  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" height="40" width="60" title="Ubuntu"/> Ubuntu
--  <img title="vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"  height="40" width="60"/> VSCode
--  <img title="Intellij" src="https://raw.githubusercontent.com/DiogoZdev/tech-icons/main/intellij/intellij.svg" height="40" width="60"> IntelliJ
--  <img title="Inkscape" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/inkscape/inkscape-plain.svg" height="40" width="60" alt="inkscape logo"/> Inkscape
--  <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60" alt="figma logo"/> Figma
+<div>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="vscode"/>
+  <img src="https://skillicons.dev/icons?i=vscodium" title="vscodium"/>
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ idea"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="figma"/>
+</div>
 
-
-
-### What I've been studying lately:
-
-- <img title="Amazon Web Services" height="40" width="60" alt="AWS logo" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" /> Amazon Web Services
 
 ## Languages I speak:
 
