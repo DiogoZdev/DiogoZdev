@@ -6,7 +6,7 @@ I have a passion for learning new technologies and creating beautiful, functiona
 
 ## Work Experience:
 
-I **currently** work as a Full-Stack Developer at [Bankme](https://bankme.tech).
+**2022 - today**: Full-Stack Developer at [Bankme](https://bankme.tech).
 - Reduced manual process and errors through automatization
 - Customer retention with better UIs and UX
 - Standardization in translations
