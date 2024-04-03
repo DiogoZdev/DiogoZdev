@@ -37,7 +37,6 @@ I **currently** work as a Full-Stack Developer at [Bankme](https://bankme.tech).
   <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" title="Tailwind CSS" />
-</div><div>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />
@@ -52,7 +51,6 @@ I **currently** work as a Full-Stack Developer at [Bankme](https://bankme.tech).
   <img src="https://skillicons.dev/icons?i=go" title="GO" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
   <img src="https://skillicons.dev/icons?i=express" title="Express" />
-</div><div>
   <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=prisma" title="PrismaORM" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
