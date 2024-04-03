@@ -13,7 +13,7 @@ I **currently** work as a Full-Stack Developer at [Bankme](https://bankme.tech).
 
 <br/>
 
-**2024**: Volunteer English Teacher [English Connect](https://www.englishconnect.org/)
+**2024**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
 
 <br/>
 
@@ -25,7 +25,7 @@ I **currently** work as a Full-Stack Developer at [Bankme](https://bankme.tech).
 - Responsible for internationalization (Portuguese, English, Spanish)
 - Planning and Development of new UIs
 
-**2019 - 2020**: Volunteer English Teacher [English Connect](https://www.englishconnect.org/)
+**2019 - 2020**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
 
 
 
