@@ -6,14 +6,14 @@ I have a passion for learning new technologies and creating beautiful, functiona
 
 ## Work Experience:
 
+**2024**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
+
+<br/>
+
 **2022 - today**: Full-Stack Developer at [Bankme](https://bankme.tech).
 - Reduced manual process and errors through automatization
 - Customer retention with better UIs and UX
 - Standardization in translations
-
-<br/>
-
-**2024**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
 
 <br/>
 
