@@ -79,7 +79,7 @@ I have a passion for learning new technologies and creating beautiful, functiona
 
 - 🇧🇷 Portuguese (native)
 - 🇬🇧 English (proficient)
-- 🇪🇸 Spanish (mid level)
+- 🇪🇸 Spanish (avanced)
 - 🇮🇹 Italian (learning in progress)
 - 🇩🇪 German (learning in progress)
 
