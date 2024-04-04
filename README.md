@@ -45,20 +45,20 @@ I have a passion for learning new technologies and creating beautiful, functiona
   <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=go" title="GO" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
   <img src="https://skillicons.dev/icons?i=express" title="Express" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=go" title="GO" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=prisma" title="PrismaORM" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" title="Postgres" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
 </div>
 <div>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" />
   <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
 </div>
