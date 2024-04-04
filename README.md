@@ -1,7 +1,10 @@
 <h1 align="center">Hello World! I'm Diogo Lara</h1>
 
 - Full-Stack Developer
-- English teacher 
+- English teacher
+- Music lover 
+
+<br/>
 
 ## Work Experience:
 
@@ -75,6 +78,7 @@
   <img src="https://skillicons.dev/icons?i=figma" title="figma"/>
 </div>
 
+<br/>
 
 ## Languages I speak:
 
@@ -85,9 +89,11 @@
 - 🇩🇪 German (learning in progress)
 
 
+<br/>
+
 <h1 align="center">Reach me out</h1>
 
 <div align="center">
-  <a href="https://linkedin.com/in/diogo-lara" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="52" alt="linkedin logo"  /></a>
-  <a href="mailto:diogo.lara.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="52" alt="google logo"  /></a>
+  <a href="https://linkedin.com/in/diogo-lara" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo" /></a>
+  <a href="mailto:diogo.lara.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="google logo" /></a>
 </div>
