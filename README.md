@@ -1,8 +1,7 @@
-<h1 align="center">Hello World!</h1>
+<h1 align="center">Hello World! I'm Diogo Lara</h1>
 
-I'm a Full-Stack Developer and English teacher from Brazil. 
-I have a passion for learning new technologies and creating beautiful, functional applications.
-
+- Full-Stack Developer
+- English teacher 
 
 ## Work Experience:
 
@@ -25,9 +24,11 @@ I have a passion for learning new technologies and creating beautiful, functiona
 - Responsible for internationalization (Portuguese, English, Spanish)
 - Planning and Development of new UIs
 
+<br/>
+
 **2019 - 2020**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
 
-
+<br/>
 
 ## Technologies I have experience with:
 
