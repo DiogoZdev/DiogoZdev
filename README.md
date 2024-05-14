@@ -84,7 +84,7 @@
 
 - 🇧🇷 Portuguese (native)
 - 🇬🇧 English (proficient)
-- 🇪🇸 Spanish (avanced)
+- 🇪🇸 Spanish (advanced)
 - 🇮🇹 Italian (learning in progress)
 - 🇩🇪 German (learning in progress)
 
