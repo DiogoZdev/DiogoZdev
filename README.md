@@ -6,33 +6,6 @@
 
 <br/>
 
-## Work Experience:
-
-**2024**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
-
-<br/>
-
-**2022 - today**: Full-Stack Developer at [Bankme](https://bankme.tech).
-- Reduced manual process and errors through automatization
-- Customer retention with better UIs and UX
-- Standardization in translations
-
-<br/>
-
-**2022**: English Teacher at [BSL](https://www.bslidiomas.com.br/)
-
-<br/>
-
-**2021 - 2022**: Full-Stack Developer at [Maptriz Smart City](https://www.maptriz.com.br/contato/).
-- Responsible for internationalization (Portuguese, English, Spanish)
-- Planning and Development of new UIs
-
-<br/>
-
-**2019 - 2020**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
-
-<br/>
-
 ## Technologies I have experience with:
 
 <div>
@@ -87,6 +60,34 @@
 - 🇪🇸 Spanish (advanced)
 - 🇮🇹 Italian (learning in progress)
 - 🇩🇪 German (learning in progress)
+
+
+## Work Experience:
+
+**2024**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
+
+<br/>
+
+**2022 - today**: Full-Stack Developer at [Bankme](https://bankme.tech).
+- Reduced manual process and errors through automatization
+- Customer retention with better UIs and UX
+- Standardization in translations
+
+<br/>
+
+**2022**: English Teacher at [BSL](https://www.bslidiomas.com.br/)
+
+<br/>
+
+**2021 - 2022**: Full-Stack Developer at [Maptriz Smart City](https://www.maptriz.com.br/contato/).
+- Responsible for internationalization (Portuguese, English, Spanish)
+- Planning and Development of new UIs
+
+<br/>
+
+**2019 - 2020**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
+
+<br/>
 
 
 <br/>
