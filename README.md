@@ -35,6 +35,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
 </div>
 <div>
+  <img src="https://skillicons.dev/icons?i=npm" title="NPM" />
+  <img src="https://skillicons.dev/icons?i=yarn" title="yarn" />
+  <img src="https://skillicons.dev/icons?i=pnpm" title="PNPM" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" />
   <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
