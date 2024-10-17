@@ -9,7 +9,6 @@
 ## Technologies I have experience with:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
@@ -22,7 +21,6 @@
   <img src="https://skillicons.dev/icons?i=angular" title="Angular 2+" />
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
   <img src="https://skillicons.dev/icons?i=express" title="Express" />
@@ -35,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
 </div>
 <div>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=npm" title="NPM" />
   <img src="https://skillicons.dev/icons?i=yarn" title="yarn" />
