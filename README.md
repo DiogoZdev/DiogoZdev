@@ -16,25 +16,26 @@
   <img src="https://skillicons.dev/icons?i=tailwindcss" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />
   <img src="https://skillicons.dev/icons?i=next" title="NextJS" />
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue 3" />
   <img src="https://skillicons.dev/icons?i=angular" title="Angular 2+" />
-  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
 </div>
 <div>
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
   <img src="https://skillicons.dev/icons?i=express" title="Express" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=go" title="GO" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=prisma" title="PrismaORM" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" title="Postgres" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
 </div>
 <div>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=npm" title="NPM" />
   <img src="https://skillicons.dev/icons?i=yarn" title="yarn" />
   <img src="https://skillicons.dev/icons?i=pnpm" title="PNPM" />
