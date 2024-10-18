@@ -68,7 +68,7 @@
 
 ## Work Experience:
 
-**2024**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
+**2024**: Volunteer English Teacher for the [English Connect](https://www.englishconnect.org/) program
 
 <br/>
 
@@ -89,7 +89,7 @@
 
 <br/>
 
-**2019 - 2020**: Volunteer English Teacher for [English Connect](https://www.englishconnect.org/) program
+**2019 - 2020**: Volunteer English Teacher for the [English Connect](https://www.englishconnect.org/) program
 
 <br/>
 
