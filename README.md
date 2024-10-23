@@ -35,6 +35,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
   <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
+  <img src="https://skillicons.dev/icons?i=vitest" title="Vitest" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" />
   <img src="https://skillicons.dev/icons?i=npm" title="NPM" />
   <img src="https://skillicons.dev/icons?i=yarn" title="yarn" />
