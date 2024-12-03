@@ -1,4 +1,9 @@
-<h1 align="center">Hello World! I'm Diogo Lara</h1>
+<p align="center">
+  <img width="100" src="https://github.com/user-attachments/assets/e9407324-7e2b-4971-a0ae-b9ca96e745e9"/>
+</p>
+
+<h1 align="center">Hello World! I'm Diogo Z</h1>
+<p align="right">AKA Diogo Lara</p>
 
 - Full-Stack Developer
 - English teacher
@@ -69,11 +74,15 @@
 
 ## Work Experience:
 
+**2022 - today**: Back-End Developer at [Oderço](https://oderco.com.br).
+
+<br/>
+
 **2024**: Volunteer English Teacher for the [English Connect](https://www.englishconnect.org/) program
 
 <br/>
 
-**2022 - today**: Full-Stack Developer at [Bankme](https://bankme.tech).
+**2022 - 2024**: Full-Stack Developer at [Bankme](https://bankme.tech).
 - Reduced manual process and errors through automatization
 - Customer retention with better UIs and UX
 - Standardization in translations
