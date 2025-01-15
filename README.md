@@ -74,7 +74,7 @@
 
 ## Work Experience:
 
-**2022 - today**: Back-End Developer at [Oderço](https://oderco.com.br).
+**2024 - today**: Back-End Developer at [Oderço](https://oderco.com.br).
 
 <br/>
 
