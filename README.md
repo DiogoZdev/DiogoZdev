@@ -33,9 +33,9 @@
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=go" title="GO" />
   <img src="https://skillicons.dev/icons?i=prisma" title="PrismaORM" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" title="Postgres" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
 </div>
 <div>
   <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
