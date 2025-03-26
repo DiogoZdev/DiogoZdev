@@ -63,13 +63,15 @@
 
 <br/>
 
-## Languages I speak:
+## Languages I speak well:
 
 - 🇧🇷 Portuguese (native)
 - 🇬🇧 English (proficient)
 - 🇪🇸 Spanish (advanced)
-- 🇮🇹 Italian (learning in progress)
-- 🇩🇪 German (learning in progress)
+
+## Languages I'm currently learning:
+- 🇫🇷 French
+- 🇮🇹 Italian
 
 
 ## Work Experience:
