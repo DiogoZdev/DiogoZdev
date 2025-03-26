@@ -2,7 +2,7 @@
   <img width="100" src="https://github.com/user-attachments/assets/e9407324-7e2b-4971-a0ae-b9ca96e745e9"/>
 </p>
 
-<h1 align="center">Hello World! I'm Diogo Z</h1>
+<h1 align="center">Hola, Bonjour, Ciao, Hello World! I'm Diogo Z</h1>
 <p align="right">AKA Diogo Lara</p>
 
 - Full-Stack Developer
