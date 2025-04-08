@@ -20,20 +20,20 @@
   <img src="https://skills-icons.vercel.app/api/icons?i=tailwindcss" title="Tailwind CSS" />
   <img src="https://skills-icons.vercel.app/api/icons?i=js" title="JavaScript" />
   <img src="https://skills-icons.vercel.app/api/icons?i=ts" title="TypeScript" />
-  <img src="https://skills-icons.vercel.app/api/icons?i=next" title="NextJS" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=nextjs" title="NextJS" />
   <img src="https://skills-icons.vercel.app/api/icons?i=react" title="ReactJS" />
   <img src="https://skills-icons.vercel.app/api/icons?i=vue" title="Vue 3" />
   <img src="https://skills-icons.vercel.app/api/icons?i=angular" title="Angular 2+" />
 </div>
 <div>
-  <img src="https://skills-icons.vercel.app/api/icons?i=nest" title="NestJS" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=nestjs" title="NestJS" />
   <img src="https://skills-icons.vercel.app/api/icons?i=nodejs" title="NodeJS" />
   <img src="https://skills-icons.vercel.app/api/icons?i=express" title="Express" />
   <img src="https://skills-icons.vercel.app/api/icons?i=java" title="Java" />
   <img src="https://skills-icons.vercel.app/api/icons?i=spring" title="Spring Boot" />
   <img src="https://skills-icons.vercel.app/api/icons?i=go" title="GO" />
   <img src="https://skills-icons.vercel.app/api/icons?i=prisma" title="PrismaORM" />
-  <img src="https://skills-icons.vercel.app/api/icons?i=postgres" title="Postgres" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=postgresql" title="Postgres" />
   <img src="https://skills-icons.vercel.app/api/icons?i=mongodb" title="MongoDB" />
   <img src="https://skills-icons.vercel.app/api/icons?i=redis" title="Redis" />
 </div>
@@ -56,8 +56,8 @@
   <img src="https://skills-icons.vercel.app/api/icons?i=linux" title="Linux"/>
   <img src="https://skills-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu"/>
   <img src="https://skills-icons.vercel.app/api/icons?i=vscode" title="vscode"/>
-  <img src="https://skills-icons.vercel.app/api/icons?i=vscodium" title="vscodium"/>
-  <img src="https://skills-icons.vercel.app/api/icons?i=idea" title="IntelliJ idea"/>
+  <img src="https://skills-icons.vercel.app/api/icons?i=apidog" title="apidog [api testing]"/>
+  <img src="https://skills-icons.vercel.app/api/icons?i=intellijidea" title="IntelliJ idea"/>
   <img src="https://skills-icons.vercel.app/api/icons?i=figma" title="figma"/>
 </div>
 
