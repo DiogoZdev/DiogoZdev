@@ -113,4 +113,5 @@
 <div align="center">
   <a href="https://linkedin.com/in/diogo-lara" target="_blank"><img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="linkedin logo" /></a>
   <a href="mailto:diogo.lara.dev@gmail.com" target="_blank"><img src="https://skills-icons.vercel.app/api/icons?i=gmail" alt="google logo" /></a>
+  <a href="https://x.com/diogozdev" target="_blank"><img src="https://skills-icons.vercel.app/api/icons?i=x" alt="X.com" /></a>
 </div>
