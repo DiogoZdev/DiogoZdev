@@ -55,6 +55,7 @@
 <div>
   <img src="https://skills-icons.vercel.app/api/icons?i=linux" title="Linux"/>
   <img src="https://skills-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu"/>
+  <img src="https://skills-icons.vercel.app/api/icons?i=fedora" title="Fedora"/>
   <img src="https://skills-icons.vercel.app/api/icons?i=vscode" title="vscode"/>
   <img src="https://skills-icons.vercel.app/api/icons?i=apidog" title="apidog [api testing]"/>
   <img src="https://skills-icons.vercel.app/api/icons?i=intellijidea" title="IntelliJ idea"/>
